@@ -1,0 +1,12 @@
+h1 {
+  font-size: 4em;
+  font-family: cursive;
+  color: maroon;
+}
+
+ body {
+   background: #E2DCAD;
+  width: 90%;
+  margin: 0 auto;  
+  text-align: center;
+}
